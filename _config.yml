@@ -1,0 +1,64 @@
+# Site Bilgileri
+title: "Elektrik Depo Blog"
+description: "Elektrik, elektronik ve teknoloji dünyasından haberler, incelemeler ve rehberler"
+baseurl: "/elektrikdepo"
+url: "https://perspektif-teknoloji.github.io"
+
+# Şirket Bilgileri
+company: "Elektrik Depo"
+company_url: "https://www.elektrikdepo.com.tr"
+author: "Elektrik Depo Ekibi"
+email: "destek@elektrikdepo.com.tr"
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Sayfalama
+paginate: 6
+paginate_path: "/page:num/"
+
+# Permalink
+permalink: /:categories/:year/:month/:day/:title/
+
+# Site Ayarları
+timezone: Europe/Istanbul
+lang: tr
+locale: tr_TR
+
+# SEO
+twitter:
+  username: elektrikdepo
+  card: summary_large_image
+
+social:
+  name: "Elektrik Depo"
+  links:
+    - "https://www.elektrikdepo.com.tr"
+    - "https://twitter.com/elektrikdepo"
+    - "https://facebook.com/elektrikdepo"
+
+# Navigation Menu
+header_pages:
+  - about.md
+  - urunler.md
+  - iletisim.md
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
