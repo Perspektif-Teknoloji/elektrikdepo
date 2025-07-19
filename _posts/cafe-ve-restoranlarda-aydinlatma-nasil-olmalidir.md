@@ -3,7 +3,8 @@ layout: post
 title: "Cafe ve Restoranlarda Aydınlatma Nasıl Olmalıdır?"
 date: 2025-07-19 15:42:00 +0300
 categories: aydinlatma dekorasyon
-permalink: _post/cafe-ve-restoranlarda-aydinlatma-nasil-olmalidir
+tags: [led, led ampul, ampul çeşitleri, enerji, tasarruf, elektrik, aydınlatma]
+author: "Elektrik Depo Ekibi"
 ---
 
 ## Cafe ve Restoranlarda Aydınlatma Nasıl Olmalıdır?
