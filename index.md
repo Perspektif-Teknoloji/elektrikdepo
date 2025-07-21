@@ -1,9 +1,7 @@
 ---
 layout: home
-title: ElektrikDepo Blog
+title: Elektrik Depo Blog
 ---
-
-# ElektrikDepo Blog
 
 Hoş geldiniz! Aşağıda en güncel blog yazılarımızı bulabilirsiniz:
 
